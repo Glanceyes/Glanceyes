@@ -1,5 +1,5 @@
 # Glanceyes [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fglanceyes&count_bg=%2371CDC5&title_bg=%234B5254&icon=buzzfeed.svg&icon_color=%23F5F5F5&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
-### 이선호 | Griffin Sunho Lee
+### <span role="image" aria-label="👦🏻" style="font-family: &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, NotoColorEmoji, &quot;Noto Color Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Android Emoji&quot;, EmojiSymbols; line-height: 1em; white-space: nowrap;">👦🏻</span> 이선호 | Griffin Sunho Lee
 
 안녕하세요? Back-End 개발과 데이터 분석 및 AI에 관심과 열정을 가지고 CS 전공을 공부하는 학생입니다.
 
