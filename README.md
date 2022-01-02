@@ -2,6 +2,7 @@
 ### 이선호 | Griffin Sunho Lee
 
 > 안녕하세요? Back-End 개발과 데이터 분석 및 AI에 관심과 열정을 가지고 CS 전공을 공부하는 학생입니다.
+> Hello? My name is Griffin Sunho Lee. I'm a Junior in Sogang University and majoring in Computer Science & Engineering. I'm keen on studying Baek-End Development and Machine Learning especially in Recommendation System.
 
 <br>
 
@@ -19,8 +20,4 @@
 | ------ | ------ |
 | 방문 판매 (Easy) | [http://www.acmicpc.net/problem/23748](https://www.acmicpc.net/problem/23748) |
 | 방문 판매 (Hard) | [http://www.acmicpc.net/problem/23754](http://www.acmicpc.net/problem/23754) |
-| 던전 릴레이 | [http://www.acmicpc.net/problem/23751](http://www.acmicpc.net/problem/23751) |
-
-<br>
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=glanceyes)](https://solved.ac/profile/glanceyes)
+| 던전 릴레이 | [http://www.acmicpc.net/problem/23751](http://www.acmicpc.net/problem/23751) |[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=glanceyes)](https://solved.ac/profile/glanceyes)
