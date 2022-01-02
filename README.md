@@ -1,4 +1,4 @@
-# Glanceyes
+# Glanceyes [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fglanceyes&count_bg=%2371CDC5&title_bg=%234B5254&icon=buzzfeed.svg&icon_color=%23F5F5F5&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ### 이선호 | Griffin Sunho Lee
 
 안녕하세요? Back-End 개발과 데이터 분석 및 AI에 관심과 열정을 가지고 CS 전공을 공부하는 학생입니다.
@@ -9,6 +9,7 @@ Hello? My name is Griffin Sunho Lee. I'm a Junior in Sogang University and major
 
 ### **👩🏻‍💻** Experience
 
+- 네이버 부스트 캠프 AI 3기 (Jan 2021 ~ Present)
 - Life Planning Lab 인턴 (Dec 2021 ~ Present)
 - BITAmin 빅데이터 연합 동아리 8기 (Aug 2021 ~ Present)
 - Sogang ICPC Team 학회원 (Jun 2021 ~ Present)
@@ -17,15 +18,14 @@ Hello? My name is Griffin Sunho Lee. I'm a Junior in Sogang University and major
 
 <br>
 
-| 출제 문제 | 링크 |
-| ------ | ------ |
-| 방문 판매 (Easy) | [http://www.acmicpc.net/problem/23748](https://www.acmicpc.net/problem/23748) |
-| 방문 판매 (Hard) | [http://www.acmicpc.net/problem/23754](http://www.acmicpc.net/problem/23754) |
-| 던전 릴레이 | [http://www.acmicpc.net/problem/23751](http://www.acmicpc.net/problem/23751) |
-
+| BOJ Solved | 출제 문제 |
+| --- | --- |
+|[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=glanceyes)](https://solved.ac/profile/glanceyes)| - 방문 판매 (Easy): [http://www.acmicpc.net/problem/23748](https://www.acmicpc.net/problem/23748)<br> - 방문 판매 (Hard): [http://www.acmicpc.net/problem/23754](http://www.acmicpc.net/problem/23754)<br> - 던전 릴레이: [http://www.acmicpc.net/problem/23751](http://www.acmicpc.net/problem/23751)|
+  
 <br>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=glanceyes)](https://solved.ac/profile/glanceyes)
+
+
 
 <br>
 
@@ -39,8 +39,5 @@ Hello? My name is Griffin Sunho Lee. I'm a Junior in Sogang University and major
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a> &nbsp;
 <img src="https://img.shields.io/badge/Express-20c997?style=flat-square&logo=Express&logoColor=white"/> &nbsp;
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp;
-<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a> &nbsp;
+<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a>
 
-
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fglanceyes&count_bg=%2371CDC5&title_bg=%234B5254&icon=buzzfeed.svg&icon_color=%23F5F5F5&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
