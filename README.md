@@ -10,7 +10,7 @@ Hello? My name is Griffin Sunho Lee. I'm a Junior in Sogang University and major
 
 ### **👩🏻‍💻** Experience
 
-- 네이버 부스트 캠프 AI 3기 (Jan 2021 ~ Present)
+- 네이버 부스트 캠프 AI 3기 (Jan 2022 ~ Present)
 - Life Planning Lab 인턴 (Dec 2021 ~ Present)
 - BITAmin 빅데이터 연합 동아리 8기 (Aug 2021 ~ Present)
 - Sogang ICPC Team 학회원 (Jun 2021 ~ Present)
