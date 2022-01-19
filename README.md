@@ -14,7 +14,7 @@ Hello? My name is Griffin Sunho Lee. I'm a Junior in Sogang University and major
 - Life Planning Lab 인턴 (Dec 2021 ~ Jan 2022)
 - 2021 SPC(Sogang Programming Contest) 출제위원 (Oct 2021 ~ Nov 2021) 
 - BITAmin 빅데이터 연합 동아리 8기 (Aug 2021 ~ Present)
-- ICPC Sinchon Algorithm Camp 2021 Summer (JUL 2021 ~ AUG 2021)
+- ICPC Sinchon Algorithm Camp 2021 Summer (Jul 2021 ~ Aug 2021)
 - Sogang ICPC Team 학회원 (Jun 2021 ~ Present)
 - 국가우수장학금(이공계) (Mar 2019 ~ Present)
 - 서강대학교 기초공학설계 과목 멘토 (Mar 2019 ~ Jun 2019)
