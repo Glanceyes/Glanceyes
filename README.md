@@ -5,17 +5,9 @@
 
 Hello? My name is Griffin Sunho Lee. I'm a Junior in Sogang University and majoring in Computer Science & Engineering. I'm keen on learning Back-End Development and AI(Artificial Intelligence) especially in Recommendation System.
 
+
+
 <br>
-<br>
-
-### **👩🏻‍💻** Experience
-
-- 네이버 Boostcamp AI Tech 3기 (Jan 2022 ~ Present)
-- Life Planning Lab 인턴 (Dec 2021 ~ Jan 2022)
-- 2021 SPC(Sogang Programming Contest) 출제위원 (Oct 2021 ~ Nov 2021) 
-- BITAmin 빅데이터 연합 동아리 8기 (Aug 2021 ~ Present)
-- Sogang ICPC Team 학회원 (Jun 2021 ~ Present)
-
 <br>
 
 | BOJ Solved | 출제 문제 |
