@@ -1,21 +1,10 @@
 # Glanceyes [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fglanceyes&count_bg=%2371CDC5&title_bg=%234B5254&icon=buzzfeed.svg&icon_color=%23F5F5F5&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ### <span role="image" aria-label="👦🏻" style="font-family: &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, NotoColorEmoji, &quot;Noto Color Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Android Emoji&quot;, EmojiSymbols; line-height: 1em; white-space: nowrap;">👦🏻</span> 이선호 | Griffin Sunho Lee
 
-안녕하세요? Back-End 개발과 데이터 분석 및 AI에 관심과 열정을 가지고 CS 전공을 공부하는 학생입니다.
+Back-End 개발과 데이터 분석 및 AI에 관심과 열정을 가지고 CS 전공을 공부하는 학생입니다.
 
-Hello? My name is Griffin Sunho Lee. I'm a Junior in Sogang University and majoring in Computer Science & Engineering. I'm keen on learning Back-End Development and AI(Artificial Intelligence) especially in Recommendation System.
+My name is Griffin Sunho Lee. I'm a Junior in Sogang University and majoring in Computer Science & Engineering. I'm keen on learning Back-End Development and AI(Artificial Intelligence) especially in Recommendation System.
 
-
-
-<br>
-<br>
-
-| BOJ Solved | 출제 문제 |
-| --- | --- |
-|[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=glanceyes)](https://solved.ac/profile/glanceyes)| - 방문 판매 (Easy): [http://www.acmicpc.net/problem/23748](https://www.acmicpc.net/problem/23748)<br> - 방문 판매 (Hard): [http://www.acmicpc.net/problem/23754](http://www.acmicpc.net/problem/23754)<br> - 던전 릴레이: [http://www.acmicpc.net/problem/23751](http://www.acmicpc.net/problem/23751)|
-  
-<br>
-<br>
 
 ### 🛠 Stack
 
