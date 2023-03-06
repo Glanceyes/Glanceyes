@@ -4,7 +4,7 @@
 
 My name is Griffin Sunho Lee. I'm a Senior in Sogang University and majoring in Computer Science & Engineering. I'm keen on learning AI(Artificial Intelligence) especially in Computer vision and Recommendation System.
 
-Here's a [link](https://www.glanceyes.com) of blog where I share my thoughts and insights on various topics I've studied and explored.
+Here's a [link](https://glanceyes.com) of blog where I share my thoughts and insights on various topics I've studied and explored.
 <br/>
 
 ### 🛠 Stack
